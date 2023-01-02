@@ -1,4 +1,4 @@
 
 var user= "Marwane";
-console.log(user);
+console.log("");
 console.log("hello");
