@@ -1,4 +1,4 @@
 
 var user= "Marwane";
-console.log(user);
+console.log("empty entry");
 console.log("hello");
